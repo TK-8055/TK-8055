@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dharaneesh T K  
+# Hi there 👋, I'm Dharaneesh T K   
 
 🚀 **Aspiring Developer | Open Source Contributor | Tech Enthusiast**  
 
