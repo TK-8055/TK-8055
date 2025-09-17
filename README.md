@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TK-8055&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TK-8055&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Connect with Me  
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneesh-t-k-15123631b/?trk=public-profile-join-page)
