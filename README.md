@@ -28,5 +28,4 @@
 
 ---
 ## 🎓 Learning
-<img src="https://tryhackme-badges.s3.amazonaws.com/dharaneeshtk8055.png" alt="Your Image Badge" />
 
