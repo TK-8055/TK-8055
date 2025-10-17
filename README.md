@@ -29,5 +29,4 @@
 ---
 ## 🎓 Learning
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dharaneeshtk8055.png?timestamp=20251014)](https://tryhackme.com/p/5836629)
-
+[![TryHackMe Badge](https://images.weserv.nl/?url=tryhackme-badges.s3.amazonaws.com/dharaneeshtk8055.png)](https://tryhackme.com/p/dharaneeshtk8055)
