@@ -30,6 +30,6 @@
 ---
 ## 🎓 Learning
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dharaneeshtk8055.png?timestamp=20251231)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/TK8055.png?timestamp=20251027)
 
 
